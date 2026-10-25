@@ -1,11 +1,26 @@
-*.iml
-.gradle
-/local.properties
-/.idea
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle
+.gradle/
+**/build/
+.kotlin/
+
+# Android local configuration and generated output
 local.properties
-/app/release
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+output-metadata.json
+
+# Native build output
+.externalNativeBuild/
+.cxx/
+
+# IDE files
+.idea/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
