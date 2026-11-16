@@ -4,7 +4,7 @@ A minimal Android app built with Kotlin and Jetpack Compose.
 
 ## Build
 
-Install JDK 21 and Android SDK Platform 36. Set the SDK location in the ignored
+Install JDK 21 and Android SDK Platform 36. Set the SDK location in the
 `local.properties` file:
 
 ```properties

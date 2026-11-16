@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "vtsen.hashnode.dev.newemptycomposeapp"
+    namespace = "com.example.app"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "vtsen.hashnode.dev.newemptycomposeapp"
+        applicationId = "com.example.app"
         minSdk = 23
         targetSdk = 36
         versionCode = 1
