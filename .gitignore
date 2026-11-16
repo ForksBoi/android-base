@@ -4,7 +4,6 @@
 .kotlin/
 
 # Android local configuration and generated output
-local.properties
 captures/
 *.apk
 *.aab
